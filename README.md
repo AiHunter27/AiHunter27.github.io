@@ -3,11 +3,11 @@
 - **Location:** Saint Louis, Missouri
 - **LinkedIn:** [SaiAswath](https://www.linkedin.com/in/sai-aswath-993b61a9/)
 
-## PROFESSIONAL SUMMARY
+## <span style="color:blue">PROFESSIONAL SUMMARY</span>
 
 Experienced Artificial Intelligence Engineer with a strong focus on innovation and a deep understanding of machine learning techniques and practices. Proven track record over three years in designing and implementing algorithms for autonomous decision-making and predictive analysis. Skilled in data mining, Generative AI, Computer Vision, and Natural Language Processing. Highly proficient in Python coding, combining logical problem-solving with meticulous attention to detail. Committed to advancing AI technology and contributing valuable insights and solutions.
 
-## TECHNICAL SKILLS
+## <span style="color:blue">TECHNICAL SKILLS</span>
 
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib), C++, SQL
 - **AI & Machine Learning:** Core AI Skills (Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing); Neural Networks (CNN, RNN, LSTM, RESNET-50, YOLO V7/V9); Machine Learning Techniques (Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, DBSCAN, PCA, UMAP, t-SNE)
@@ -15,7 +15,7 @@ Experienced Artificial Intelligence Engineer with a strong focus on innovation a
 - **Frameworks and Platforms:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Keras, NLTK, spaCy, MediaPipe; Cloud Platforms: GCP, AWS, Azure (Azure ML Studio); Chatbot Development: Rasa, Microsoft Bot Framework Composer; Web Development (HTML, CSS, JavaScript, Bootstrap)
 - **3D Modeling and Computer Vision:** Structure from Motion (SFM), COLMAP, 3D Gaussian Splatting; Simultaneous Localization and Mapping (SLAM), Neural Radiance Fields (NeRFs); Image Segmentation Techniques
 
-## EXPERIENCE
+## <span style="color:blue">EXPERIENCE</span>
 
 ### Saint Louis University - Research Assistant
 *Saint Louis, MO, USA* (08/2023 - Present)
@@ -46,7 +46,7 @@ Experienced Artificial Intelligence Engineer with a strong focus on innovation a
 - **Automated App Testing Using Appium:** Led the automation of app testing using Appium, guaranteeing optimal performance for YogiFi applications. Seamlessly integrated mat testing within the YogiFi app framework, enhancing the quality assurance process.
 - **Managed Production and Staging Environments:** Oversaw the production and staging environments for YogiFi Mat OS and Computer Vision OS. Led the management of Google Cloud Platform services, upholding high standards of operational excellence and reliability.
 
-## EDUCATION
+## <span style="color:blue">EDUCATION</span>
 
 ### Saint Louis University
 *St. Louis, MO*
