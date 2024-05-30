@@ -10,10 +10,11 @@ Experienced Artificial Intelligence Engineer with a strong focus on innovation a
 ## <span style="color:blue">TECHNICAL SKILLS</span>
 
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib), C++
-- **Databases:** SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB)
+- **Databases:** SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB),Graph database Neo4j
 - **AI & Machine Learning:** Core AI Skills (Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing); Neural Networks (CNN, RNN, LSTM, RESNET-50, YOLO V7/V9); Machine Learning Techniques (Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, DBSCAN, PCA, UMAP, t-SNE)
-- **Advanced AI Technologies:** Generative AI, Transformers (GPT, BERT, Llama, Falcon, GPT-J, Llama-2), Retrieval-augmented generation (RAG); Vector Embeddings, Vector Databases (Pinecone, ChromaDB, etc.), FAISS; Hugging Face (PEFT, LoRa, Q-LoRa, SFT Trainer, Transformer Reinforcement Learning),AI Agent Frames works(Autogen,crewai),Langchain ,
+- **Advanced AI Technologies:** Generative AI, Transformers (GPT, BERT, Llama, Falcon, GPT-J, (Llama-1,2,3),Phi3-vision), Retrieval-augmented generation (RAG); Vector Embeddings, Vector Databases (Pinecone, ChromaDB, etc.), FAISS; Hugging Face (PEFT, LoRa, Q-LoRa, SFT Trainer, Transformer Reinforcement Learning),VLLM, Multimodality models,AI Agent Frames works(Autogen,crewai),Langchain
 - **Frameworks and Platforms:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Keras, NLTK, spaCy, MediaPipe; Cloud Platforms: GCP, AWS, Azure (Azure ML Studio); Chatbot Development: Rasa, Microsoft Bot Framework Composer; Web Development (HTML, CSS, JavaScript, Bootstrap),Langchain , LLamaIndex
+- **AI & Machine Learning APIs:** OpenAI ,Gemini,Cohere
 - **3D Modeling and Computer Vision:** Structure from Motion (SFM), COLMAP, 3D Gaussian Splatting; Simultaneous Localization and Mapping (SLAM), Neural Radiance Fields (NeRFs); Image Segmentation Techniques
 
 ## <span style="color:blue">EXPERIENCE</span>
