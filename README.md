@@ -1,4 +1,4 @@
-- **Phone:** +1 (314) 393-8557
+- **Phone:** +1 (314) 669-5029
 - **Email:** [aswathsai27@gmail.com](mailto:aswathsai27@gmail.com)
 - **Location:** Saint Louis, Missouri
 - **LinkedIn:** [SaiAswath](https://www.linkedin.com/in/sai-aswath-993b61a9/)
