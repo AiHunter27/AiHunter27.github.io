@@ -5,7 +5,7 @@
 
 ## <span style="color:blue">PROFESSIONAL SUMMARY</span>
 
-Experienced Artificial Intelligence Engineer with a strong focus on innovation and a deep understanding of machine learning techniques and practices. Proven track record over three years in designing and implementing algorithms for autonomous decision-making and predictive analysis. Skilled in data mining, Generative AI, Computer Vision, and Natural Language Processing. Highly proficient in Python coding, combining logical problem-solving with meticulous attention to detail. Committed to advancing AI technology and contributing valuable insights and solutions.
+Experienced Artificial Intelligence Engineer with a strong focus on innovation and a deep understanding of machine learning techniques and practices. Proven track record over Five years in designing and implementing algorithms for autonomous decision-making and predictive analysis. Skilled in data mining, Generative AI, Computer Vision, and Natural Language Processing. Highly proficient in Python coding, combining logical problem-solving with meticulous attention to detail. Committed to advancing AI technology and contributing valuable insights and solutions.
 
 ## <span style="color:blue">TECHNICAL SKILLS</span>
 
